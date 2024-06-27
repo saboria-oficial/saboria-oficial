@@ -47,21 +47,14 @@
 <br>
 <div align="center">
 <a href="https://www.linkedin.com/in/carlosbonfim26/"><img src="https://saboria-three.vercel.app/assets/dev1-CIu2IsBY.jpg" width="200px"></a>
-  
 <a href="https://www.linkedin.com/in/yanmrodrigues/"><img src="https://saboria-three.vercel.app/assets/dev2-Cglqgk8U.webp" width="200px"></a>
-
 <a href="https://www.linkedin.com/in/samanta-gomes8/"><img src="https://saboria-three.vercel.app/assets/dev3-CxbCDjK1.jpg" width="200px"></a>
-
 <a href="https://www.linkedin.com/in/milenadiasdc/"><img src="https://saboria-three.vercel.app/assets/dev4-BJB3pFs5.jpg" width="200px"></a>
-
 <br>
 <a href="https://www.linkedin.com/in/fellype-oliveira/"><img src="https://saboria-three.vercel.app/assets/dev5-Dr9EqnAU.jpg" width="200px"></a>
-
 <a href="https://www.linkedin.com/in/joaogabriel-/"><img src="https://saboria-three.vercel.app/assets/dev6-BBqrgV_R.jpg" width="200px"></a>
-
 <a href="https://www.linkedin.com/in/leohen/"><img src="https://saboria-three.vercel.app/assets/dev7-VwooYf_9.jpg" width="200px"></a>
-
-<a href="https://www.linkedin.com/in/joaldo-santos-b173722b8/"><img src="https://saboria-three.vercel.app/assets/dev8-BUT5dpNX.webp"></a>
+<a href="https://www.linkedin.com/in/joaldo-santos-b173722b8/"><img src="https://saboria-three.vercel.app/assets/dev8-BUT5dpNX.webp" width="200px"></a>
 </div>
 
 ##
